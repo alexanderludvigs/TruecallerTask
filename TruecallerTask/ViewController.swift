@@ -128,6 +128,7 @@ extension ViewController {
     // Note:
     // the function request1(), request2() &
     // request3() call the fetchContentWith()
+    // since we are only using the same web.
     
     func request1(_ completion: @escaping (String?) -> Void) {
         fetchContentWith(trucallerURL) { (result) in
