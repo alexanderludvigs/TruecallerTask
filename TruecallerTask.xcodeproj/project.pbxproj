@@ -12,6 +12,7 @@
 		11D1DA9121BF20AB00CF7C10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D1DA8F21BF20AB00CF7C10 /* Main.storyboard */; };
 		11D1DA9321BF20AD00CF7C10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11D1DA9221BF20AD00CF7C10 /* Assets.xcassets */; };
 		11D1DA9621BF20AD00CF7C10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11D1DA9421BF20AD00CF7C10 /* LaunchScreen.storyboard */; };
+		11D1DAA721C05AF000CF7C10 /* String+Charachter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D1DAA621C05AF000CF7C10 /* String+Charachter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		11D1DA9221BF20AD00CF7C10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11D1DA9521BF20AD00CF7C10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		11D1DA9721BF20AD00CF7C10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11D1DAA621C05AF000CF7C10 /* String+Charachter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Charachter.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				11D1DA9221BF20AD00CF7C10 /* Assets.xcassets */,
 				11D1DA9421BF20AD00CF7C10 /* LaunchScreen.storyboard */,
 				11D1DA9721BF20AD00CF7C10 /* Info.plist */,
+				11D1DAA621C05AF000CF7C10 /* String+Charachter.swift */,
 			);
 			path = TruecallerTask;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11D1DAA721C05AF000CF7C10 /* String+Charachter.swift in Sources */,
 				11D1DA8E21BF20AB00CF7C10 /* ViewController.swift in Sources */,
 				11D1DA8C21BF20AB00CF7C10 /* AppDelegate.swift in Sources */,
 			);
